@@ -1,0 +1,59 @@
+.big{max-width: 800px;
+  width: 78;
+  margin: 0 auto;
+  background-color:#0168b8;
+  padding-bottom: 3rem;
+  color: white;
+  border-radius: 10px;
+}
+
+.you{
+    font-size: 1.75rem;
+    font-family: 'elena';
+}
+.emp{
+    font-size: 3.75rem;
+    font-family: 'mija';
+    text-decoration: underline;
+    margin: 1.2rem;
+
+}
+.ceo{
+    font-style: italic;
+    font-size: 40px;
+
+
+}
+.form{ display: grid;
+    grid-template-columns: 65% 35%;
+    border-radius: 15px;
+    padding-bottom: 1rem;
+}
+.form ,.form2{ padding: 1.5rem 2rem;
+    
+    
+}
+.form2{
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.ganye{
+    background-color:#016888;
+    color: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    font-size: 20px;
+}
+.sub{
+    font-family: "Elena";
+    font-size: 1.5rem;
+    width: 56%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 1.1rem 1.5rem;
+    background-color: #0586BD;
+    border-radius: 10px;
+
+}
+.pad{padding: 1rem 2.6667rem 0 2.6667rem;
+}
